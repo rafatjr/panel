@@ -1,7 +1,7 @@
 <?php
 if (isset($_POST['button'])){
 
-    $url = 'http://badx.unaux.com/panel/';
+    $url = 'https://rafatjr.github.io/panel/';
     $data = array('button' => $_POST['button']);
 
     $options = array(
